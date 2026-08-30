@@ -15,7 +15,7 @@
 
 <br>
 
-## `~/` whoami
+![whoami](https://img.shields.io/badge/~/_whoami-161b22?style=for-the-badge&color=161b22)
 
 ```
 $ cat about.txt
@@ -29,7 +29,7 @@ $ cat about.txt
 
 <br>
 
-## `~/` toolbox
+![toolbox](https://img.shields.io/badge/~/_toolbox-161b22?style=for-the-badge&color=161b22)
 
 <div align="center">
 
@@ -39,22 +39,22 @@ $ cat about.txt
 
 <br>
 
-## `~/` skill radar
+![skill radar](https://img.shields.io/badge/~/_skill_radar-161b22?style=for-the-badge&color=161b22)
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?bkg=%230d1117&width=500&height=400&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Java%22%2C%20%22Kotlin%22%2C%20%22C%22%2C%20%22C%2B%2B%22%2C%20%22Python%22%2C%20%22JavaScript%22%2C%20%22React%22%2C%20%22Linux%22%2C%20%22System%20Design%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B85%2C%2075%2C%2060%2C%2055%2C%2060%2C%2065%2C%2055%2C%2070%2C%2050%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2888%2C166%2C255%2C0.3%29%22%2C%20%22borderColor%22%3A%20%22%2358A6FF%22%2C%20%22pointBackgroundColor%22%3A%20%22%2358A6FF%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2012%7D%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%7D%7D%7D%7D%7D" />
+<img src="https://quickchart.io/chart?version=3&bkg=%230d1117&width=500&height=420&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Java%22%2C%20%22Kotlin%22%2C%20%22C%22%2C%20%22C%2B%2B%22%2C%20%22Python%22%2C%20%22JavaScript%22%2C%20%22React%22%2C%20%22Linux%22%2C%20%22System%20Design%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Level%22%2C%20%22data%22%3A%20%5B85%2C%2075%2C%2060%2C%2055%2C%2060%2C%2065%2C%2055%2C%2070%2C%2050%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2888%2C166%2C255%2C0.35%29%22%2C%20%22borderColor%22%3A%20%22%2358A6FF%22%2C%20%22borderWidth%22%3A%202%2C%20%22pointBackgroundColor%22%3A%20%22%2358A6FF%22%2C%20%22pointBorderColor%22%3A%20%220d1117%22%2C%20%22pointRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%2C%20%22scales%22%3A%20%7B%22r%22%3A%20%7B%22angleLines%22%3A%20%7B%22color%22%3A%20%22%232b3038%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232b3038%22%7D%2C%20%22pointLabels%22%3A%20%7B%22color%22%3A%20%22%23e6edf3%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%2C%20%22weight%22%3A%20%22bold%22%7D%7D%2C%20%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%2C%20%22backdropColor%22%3A%20%22transparent%22%7D%7D%7D%7D%7D" />
 
 </div>
 
 <br>
 
-## `~/` the numbers
+![the numbers](https://img.shields.io/badge/~/_the_numbers-161b22?style=for-the-badge&color=161b22)
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YajatDhiman1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajatDhiman1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=YajatDhiman1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YajatDhiman1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
 
 </div>
 
@@ -66,7 +66,7 @@ $ cat about.txt
 
 <br>
 
-## `~/` 3D contribution graph
+![3D contribution graph](https://img.shields.io/badge/~/_3D_contribution_graph-161b22?style=for-the-badge&color=161b22)
 
 <div align="center">
 
@@ -76,7 +76,7 @@ $ cat about.txt
 
 <br>
 
-## `~/` contribution snake
+![contribution snake](https://img.shields.io/badge/~/_contribution_snake-161b22?style=for-the-badge&color=161b22)
 
 <div align="center">
 
