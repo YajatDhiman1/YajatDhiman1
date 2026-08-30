@@ -2,7 +2,9 @@
 
 # Yajat Dhiman
 
-### `Full-stack developer | Android | Competitive programmer`
+<a href="https://github.com/YajatDhiman1">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Android+%7C+Kotlin+%2B+Jetpack+Compose;Competitive+Programmer+(Java);CSE+%40+Chitkara+University" alt="Typing SVG" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yajat-dhiman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yajatdhiman@gmail.com)
@@ -41,14 +43,30 @@ $ cat about.txt
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YajatDhiman1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YajatDhiman1&theme=dark&hide_border=true&background=0d1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YajatDhiman1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajatDhiman1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YajatDhiman1&theme=react-dark&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YajatDhiman1&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" />
+
+</div>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YajatDhiman1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)
+
+</div>
+
+<br>
+
+## `~/` trophy case
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YajatDhiman1&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
 
 </div>
 
@@ -65,6 +83,8 @@ $ cat about.txt
 <br>
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YajatDhiman1&color=58A6FF&style=flat&label=Profile+Views)
 
 `Last updated automatically • Built with a terminal theme`
 
