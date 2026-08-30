@@ -54,24 +54,6 @@ $ cat about.txt
 
 </div>
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YajatDhiman1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)
-
-</div>
-
-<br>
-
-## `~/` trophy case
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YajatDhiman1&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
-<br>
-
 ## `~/` contribution snake
 
 <div align="center">
